@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a text file
+=======
+This is a one line text
+>>>>>>> subclass1
